@@ -2,7 +2,6 @@ from gc import callbacks
 from http import client
 from unicodedata import name
 import streamlit as st
-from st_aggrid import AgGrid
 import pandas as pd 
 import numpy as np
 import plotly.express as px
