@@ -1,0 +1,8 @@
+﻿Task,Task Description,Start,Finish,Completion,Team,HourTask,HourDone,PriceHour
+Discussing Proposal,Discussion about the proposal with the client. Specifically about scope of project,2023-05-25,2023-06-25,1,A,20,20,140
+Case Analysis,Legal analysis about different stakeholders and assessment of  circumstances,2023-06-08,2023-07-08,0.9,A,50,45,140
+Legal Research,Relevant laws are reviewed ,2023-06-20,2023-08-02,0.2,B,75,15,120
+Negotiation,Attempt negotiating and settling with oposing party ,2023-08-03,2023-08-24,0,A,25,0,140
+Litigation,Represent client in court and persuade court of client's interests,2023-08-25,2023-09-08,0,A,60,0,140
+Judgment,Assist client in ensuring compliance with court's decision ,2023-10-02,2023-10-16,0,C,20,0,80
+Closing,Assist client in updating property records and finalizing legal documentation,2023-10-17,2023-10-25,0,C,15,0,80
