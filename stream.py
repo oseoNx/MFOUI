@@ -186,15 +186,7 @@ with tab1:
 
             st.plotly_chart(fig, use_container_width=True)  #Display the plotly chart in Streamlit
 
-            ### Customisable chart
-            """  
-            grid_response = AgGrid(
-                Tasks,
-                editable=True, 
-                height=300, 
-                width='100%',
-                    )
-            """
+
 
             
             
